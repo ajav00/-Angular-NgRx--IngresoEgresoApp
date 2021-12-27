@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "ingreso-egreso-app-239e4": {
+      "hosting": {
+        "ingreso-egreso-app": [
+          "ingreso-egreso-app-239e4"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "ingreso-egreso-app-239e4"
+  }
+}
